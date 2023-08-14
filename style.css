@@ -1,0 +1,80 @@
+h1 , p { 
+    text-align: center;
+}
+h2 , p { 
+    text-align: center;
+}
+#fundo {
+    width: 100%;
+}
+body {
+    background-color: #ddbdbdb9;
+
+}
+table {
+    text-align: center;
+}
+
+img { 
+    align-items: center;
+}
+ p {
+    text-align:center;
+}
+
+.conteudo {
+    width: 1200px;
+    margin: 0 auto;
+}
+.eu {
+    display: inline-block;
+    width: 35%;
+    margin-top: 5%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.tit_eu {
+    text-align: center;
+    font-size: 30px;
+}
+
+.cont_eu {
+    font-size: 20px;
+}
+
+.formulario {
+    display: inline-block;
+    width: 20%;
+    margin-left: 14%;
+    margin-top: 7%;
+    vertical-align: top;
+}
+
+label {
+    display: block;
+    margin-bottom: 3px;
+}
+
+input {
+    display: block;
+    padding: 30px 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.botao {
+    margin-left: 5%;
+    padding: 10px 15pxs;
+    display: inline-block;
+    margin-top: 20%;
+    width: 20%;
+    background-color: purple;
+    transition: all 1s;
+    color: white;
+}
+
+.botao:hover {
+    background-color: red;
+    transform: scale(1.1);
+}
